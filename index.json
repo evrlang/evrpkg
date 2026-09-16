@@ -3,7 +3,7 @@
   "package": [
 	{
     		"username": "pouya",
-    		"pkgname": "test",
+    		"pkgname": "ever-test",
     		"source": "https://github.com/pouya1dev/ever-test",
     		"desc": "A simple test",
     		"ver": "0.0.1"
